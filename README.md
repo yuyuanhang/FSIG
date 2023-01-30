@@ -19,7 +19,9 @@ For example,
 ./FSIG dblp.graph 4_dense_0.graph 1 1
 ```
 Parameters:
+
 algorithm type: 1 is FSIG; 2 is GSI.
+
 graph type: 0 is unlabeled graph; 1 is labeled graphs.
 
 ## Datasets
