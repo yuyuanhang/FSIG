@@ -29,5 +29,7 @@ The format of graphs we support is as follows.
 ```zsh
 t [the number of vertices] [the number of edges]
 v [id] [label] [degree]
+...
 e [src] [dest]
+...
 ```
